@@ -12,11 +12,10 @@
 }
 
 #github{
-    margin-top: 10%;
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
+    position:absolute;
+    margin-top: 5%;
     width: 15%;
+    left: 5%;
 }
 
 @keyframes shake {
